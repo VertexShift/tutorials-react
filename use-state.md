@@ -2,11 +2,6 @@
 
 Neste tutorial, vamos explorar como usar o hook `useState` no React para gerenciar estados dentro de componentes funcionais. O `useState` é um dos hooks mais usados no React e permite que você adicione estados a componentes que anteriormente eram stateless.
 
-## Pré-requisitos
-
-- Familiaridade com React
-- Conhecimento básico de componentes funcionais
-
 ## 1. O que é o useState?
 
 O `useState` é um hook que permite que você adicione e manipule estados em componentes funcionais. Ele retorna um array contendo dois elementos:
