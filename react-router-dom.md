@@ -2,11 +2,6 @@
 
 Neste tutorial, vamos aprender como configurar e usar o `react-router-dom` para adicionar navegação ao seu aplicativo React. O `react-router-dom` permite que você gerencie rotas, crie links entre páginas e faça o controle de navegação de forma simples.
 
-## Pré-requisitos
-
-- Familiaridade com React
-- Node.js e npm instalados
-
 ## 1. Instalação do React Router DOM
 
 Primeiro, instale o pacote `react-router-dom`:
