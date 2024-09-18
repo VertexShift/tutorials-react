@@ -1,6 +1,6 @@
 # Tutoriais
 
-BemAqui você encontrará links para seções específicas que explicam o funcionamento e a implementação de diferentes funcionalidades no React.
+Aqui você encontrará links para seções específicas que explicam o funcionamento e a implementação de diferentes funcionalidades no React.
 
 ## Índice
 
